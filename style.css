@@ -1,0 +1,59 @@
+body{
+ background-color: cadetblue;
+}
+.wrapper{
+    width: 80%;
+    height: 3000px; 
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    margin-bottom: 0;
+    background-color: white;
+    text-align: center;
+}
+.banner{
+    height: 250px;
+    background-color: blueviolet;
+}
+.nav{
+    height: 100px;
+    background-color: aqua;
+}
+.hold{
+    float: left;
+}
+.content{
+    float: left;
+    height: 400px;
+    width: 65%;
+    background-color: pink;
+}
+.content2{
+    float: left;
+    height: 400px;
+    width: 65%;
+    background-color: aqua;
+}
+.side-content{
+    float: right;
+    height: 380px;
+    width: 30%;
+   background-color: seagreen;
+}
+.side-content2{
+    float: right;
+    height: 380px;
+    width: 30%;
+    background-color: rosybrown;
+}
+.side-content3{
+    float: right;
+    height: 380px;
+    width: 30%;
+    background-color: salmon;
+}
+.footer{
+    float: right;
+    background-color: black;
+    height: 380px;
+}
